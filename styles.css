@@ -1,0 +1,35 @@
+body{
+    background-color: #ecf9f2;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: thick;
+  width: 15%;
+}
+h1{
+  color: #194d33;
+}
+
+h3{
+  color: #194d33;
+}
+p{
+  color: #587e76;
+}
+img:hover{
+  background-color: white;
+}
+a{
+
+  text-decoration:inherit;
+  font-style: oblique;
+  color:  #587e76;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+table{
+  color: #587e76;
+}
